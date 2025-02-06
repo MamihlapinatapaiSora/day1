@@ -30,5 +30,6 @@ add_student("S002", "李四")
 add_score("S002", "数学", 87)
 add_score("S002", "英语", 92)
 
+
 print("张三平均分:", get_average("S001"))  # 输出 91.5
 print("数学尖子生:", top_math_students())  # 输出 ['S001']
