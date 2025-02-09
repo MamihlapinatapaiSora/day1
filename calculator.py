@@ -20,7 +20,7 @@ def divide(a, b):
 
 # 主程序（结合之前的流程控制）  
 while True:  
-    print("\n简易计算器")  
+    print("简易计算器")  
     print("1. 加法  2. 减法  3. 乘法  4. 除法  0. 退出")  
     choice = input("请选择操作：")  
 
